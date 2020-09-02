@@ -74,6 +74,8 @@ main {
 }
 section {
     display: inline-block;
+}
+.width40 {
     width: 40%;
 }
 section a {
@@ -86,4 +88,13 @@ section img {
     display: inline-block;
     width: 19%;
     height: 100%;
+}
+#page2Div {
+    display: inline-block;
+    width: 25%;
+}
+#page2Div section {
+    text-align: right;
+    margin-bottom: 4rem;
+    margin-left: 2rem;
 }
