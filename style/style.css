@@ -156,3 +156,7 @@ section img {
 #page4div img{
     width: 100%;
 }
+#page4Img7 {
+    display: inline-block;
+    width: 24%;
+}
