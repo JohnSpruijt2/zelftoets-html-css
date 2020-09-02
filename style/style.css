@@ -89,12 +89,20 @@ section img {
     width: 19%;
     height: 100%;
 }
-#page2Div {
+.page2Div {
     display: inline-block;
     width: 25%;
 }
-#page2Div section {
+.page2Div .text {
     text-align: right;
     margin-bottom: 4rem;
     margin-left: 2rem;
+}
+#page2Imgs {
+    display: inline-block;
+    width: 30%;
+    text-align: center;
+}
+#page2Imgs img {
+    min-width: 80%;
 }
